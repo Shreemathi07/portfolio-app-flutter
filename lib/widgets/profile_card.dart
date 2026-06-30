@@ -22,9 +22,9 @@ class ProfileCard extends StatelessWidget {
         child: Column(
           children: [
 
-            CircleAvatar(
+            const CircleAvatar(
               radius: 60,
-              backgroundImage: NetworkImage(
+              backgroundImage: AssetImage(
                 'assets/images/profile.jpg',
               ),
             ),
