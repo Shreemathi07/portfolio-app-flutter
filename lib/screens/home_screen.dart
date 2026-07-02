@@ -181,7 +181,7 @@ class HomeScreen extends StatelessWidget {
                     SizedBox(height: 5),
 
                     Text(
-                      "© 2025 Personal Portfolio",
+                      "© 2026 Personal Portfolio",
                       style: TextStyle(
                         color: Colors.grey,
                       ),
